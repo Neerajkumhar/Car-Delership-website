@@ -1,6 +1,7 @@
 # Car Dealership Website
 
 Check the project on (https://neerajkumhar.github.io/Car-Delership-website/)
+
 This is a simple **single-page Car Dealership Website** created using **HTML, CSS, and basic JavaScript**.  
 This project was made in **2023 during my Diploma college**, and it was the **first website of my career**, marking the beginning of my web development journey.
 
